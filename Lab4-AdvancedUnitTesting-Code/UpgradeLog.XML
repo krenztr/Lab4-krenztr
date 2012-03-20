@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Expedia">
+</Property><Property Name="Solution File" Value="\\vmware-host\Shared Folders\mohan On My Mac\Rose\Courses\2011-2012\Spring 2012\CSSE 376\Labs\Labs\Lab4\Lab4-AdvancedUnitTesting-Code\Expedia.sln">
+</Property><Property Name="Date" Value="Wednesday, March 14, 2012">
+</Property><Property Name="Time" Value="10:24 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Expedia" Source="Expedia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Expedia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Expedia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Expedia" Source="Expedia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ExpediaTest" Source="ExpediaTest\ExpediaTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
